@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "name": "Robert",
+      "email": "robert.oliveira.f@gmail.com",
+      "password": "123",
+      "logged": false,
+      "cart": [],
+      "id": 1
+    },
+    {
+      "name": "Fulano",
+      "email": "fulano@email.com",
+      "password": "123",
+      "logged": true,
+      "cart": [],
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": "0",
+      "name": "Walkman Sony",
+      "price": "120,00",
+      "img": "sony-walkman.png",
+      "specs": [
+        "AM",
+        "FM",
+        "Fitas",
+        "Fones de alta qualidade"
+      ],
+      "comments": [
+        {
+          "name": "Fulano",
+          "msg": "comprei e chegou super rápido!"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "IBM PC 5150",
+      "price": "1700,00",
+      "img": "IBM-PC-5150.jpg",
+      "specs": [
+        "CPU Intel 8088, 4.77MHz",
+        "RAM 6K, 640K max",
+        "Display 80 X 24 text",
+        "Storage dual 160KB 5.25-inch disk drives"
+      ],
+      "comments": [
+        {
+          "name": "Fulano",
+          "msg": "adorei"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Celular Motorola",
+      "price": "1400,00",
+      "img": "moto_phone.png",
+      "specs": [],
+      "comments": []
+    },
+    {
+      "id": "3",
+      "name": "Sony Playstation",
+      "price": "300,00",
+      "img": "playstation.png",
+      "specs": [
+        "CPU: 32-bit RISC (33.9MHz)",
+        "RAM: 2MB, 1MB Video RAM",
+        "Graphics: 3D Geometry Engine, with 2D rotation, scaling, transparency and fading and 3D texture mapping and shading.",
+        "Colors: 16.7 million",
+        "Sprites: 4,000",
+        "Polygons: 360,000 per second",
+        "Resolution: 640x480",
+        "Sound: 16-bit 24 channel PCM"
+      ],
+      "comments": []
+    },
+    {
+      "id": "4",
+      "name": "Nintendo 64",
+      "price": "420,00",
+      "img": "n64.png",
+      "specs": [
+        "CPU 64-bit NEC VR4300 @ 93.75 MHz",
+        "Memory 4 MB Rambus RDRAM 8 MB with",
+        "Storage 4–64 MB Game Pak",
+        "Graphics SGI RCP @ 62.5 MHz",
+        "Sound 16-bit, 48 or 44.1 kHz stereo"
+      ],
+      "comments": []
+    },
+    {
+      "id": "5",
+      "name": "VHS DVD player JVC",
+      "price": "250,00",
+      "img": "vhs-dvd-player-jvc.jpg",
+      "specs": [],
+      "comments": []
+    },
+    {
+      "id": "6",
+      "name": "Sony TV Trinitron",
+      "price": "700,00",
+      "img": "sony-trinitron-tv.png",
+      "specs": [],
+      "comments": []
+    }
+  ]
+}
