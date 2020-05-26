@@ -12,7 +12,7 @@
       "name": "Fulano",
       "email": "fulano@email.com",
       "password": "123",
-      "logged": true,
+      "logged": false,
       "cart": [],
       "id": 2
     }
